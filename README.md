@@ -5,7 +5,7 @@ Repositorio para práctica de Github
 
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
-* git reset -- hard HEAD~1 * - Para deshacer los cambios en el working copy también.
+*git reset -- hard HEAD~1* - Para deshacer los cambios en el working copy también.
 
 - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
 
