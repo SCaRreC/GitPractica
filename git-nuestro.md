@@ -1,6 +1,6 @@
 
 
-Git nuestro
+**Rezo de los Fans de Git**
 
 *Git* nuestro que estas en los repos
 
